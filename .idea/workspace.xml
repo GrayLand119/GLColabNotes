@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4497e979-3000-41f6-b660-3b768da0aea5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Notes/TFOperation.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Notes/TFOperation.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Notes/TFOperation.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Notes/image_classification_part1.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Notes/image_classification_part1.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Notes/intro_to_sparse_data_and_embeddings.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Notes/intro_to_sparse_data_and_embeddings.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Notes/multi_class_classification_of_handwritten_digits.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Notes/multi_class_classification_of_handwritten_digits.ipynb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,20 +16,86 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Notes/TFOperation.ipynb">
           <provider selected="true" editor-type-id="ipnb-editor">
             <state>
-              <selected id="0" />
+              <selected id="2" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/Library/Caches/PyCharmCE2018.3/python_stubs/-1199943127/numpy/random/mtrand.py">
+        <entry file="file://$PROJECT_DIR$/Notes/BasicClassificationFasionMNIST.ipynb">
+          <provider selected="true" editor-type-id="ipnb-editor">
+            <state>
+              <selected id="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Notes/multi_class_classification_of_handwritten_digits.ipynb">
+          <provider selected="true" editor-type-id="ipnb-editor">
+            <state>
+              <selected id="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Notes/intro_to_sparse_data_and_embeddings.ipynb">
+          <provider selected="true" editor-type-id="ipnb-editor">
+            <state>
+              <selected id="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../../MachineLearning/Iris/models/samples/core/get_started/iris_data.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="26685">
-              <caret line="1783" column="4" selection-start-line="1783" selection-start-column="4" selection-end-line="1783" selection-end-column="4" />
+            <state relative-caret-position="296">
+              <caret line="29" column="35" selection-start-line="29" selection-start-column="29" selection-end-line="29" selection-end-column="35" />
+              <folding>
+                <element signature="e#0#19#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Notes/image_classification_part1.ipynb">
+          <provider selected="true" editor-type-id="ipnb-editor">
+            <state>
+              <selected id="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Notes/image_classification_pretrained_model.ipynb">
+          <provider selected="true" editor-type-id="ipnb-editor">
+            <state>
+              <selected id="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Notes/image_classification_data_augmentation.ipynb">
+          <provider selected="true" editor-type-id="ipnb-editor">
+            <state>
+              <selected id="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Notes/.ipynb_checkpoints/BasicClassificationFasionMNIST-checkpoint.ipynb">
+          <provider selected="true" editor-type-id="ipnb-editor">
+            <state>
+              <selected id="15" />
             </state>
           </provider>
         </entry>
@@ -49,6 +118,17 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>DNNClassifier</find>
+      <find>dataset</find>
+      <find>parse</find>
+      <find>training_input_fn</find>
+      <find>training_targets</find>
+      <find>train_input_fn</find>
+      <find>_parse_function</find>
+    </findStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -56,14 +136,15 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/Notes/TFOperation.ipynb" />
+        <option value="$PROJECT_DIR$/Notes/intro_to_sparse_data_and_embeddings.ipynb" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-2043" />
+    <option name="x" value="-2044" />
     <option name="y" value="-887" />
     <option name="width" value="1920" />
-    <option name="height" value="1057" />
+    <option name="height" value="1011" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -138,7 +219,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-2043" y="-887" width="1920" height="1057" extended-state="6" />
+    <frame x="-2044" y="-887" width="1920" height="1011" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16850974" />
@@ -155,19 +236,13 @@
       <window_info anchor="bottom" id="Terminal" order="8" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Python Console" order="10" />
+      <window_info anchor="bottom" id="Thumbnails" order="11" visible="true" weight="0.32953367" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Notes/TFOperation.ipynb">
-      <provider selected="true" editor-type-id="ipnb-editor">
-        <state>
-          <selected id="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/Library/Caches/PyCharmCE2018.3/python_stubs/-1199943127/numpy/random/mtrand.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="26685">
@@ -179,6 +254,72 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34440">
           <caret line="2343" column="8" selection-start-line="2343" selection-start-column="8" selection-end-line="2343" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Notes/.ipynb_checkpoints/BasicClassificationFasionMNIST-checkpoint.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../MachineLearning/Iris/models/samples/core/get_started/iris_data.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="296">
+          <caret line="29" column="35" selection-start-line="29" selection-start-column="29" selection-end-line="29" selection-end-column="35" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Notes/BasicClassificationFasionMNIST.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Notes/image_classification_data_augmentation.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Notes/image_classification_part1.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Notes/image_classification_pretrained_model.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Notes/intro_to_sparse_data_and_embeddings.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Notes/TFOperation.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Notes/multi_class_classification_of_handwritten_digits.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="25" />
         </state>
       </provider>
     </entry>
